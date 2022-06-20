@@ -1,0 +1,41 @@
+= hello, world!: subtitle
+Abiria
+v3.0
+:description: description about this readme
+:sectnums:
+
+== heading two
+
+lorem ipsum dolor emit +
+breaked line
+
+[.text-center]
+second line
+
+=== list
+
+* list 1
+** indented list
+* out
+
+==== numbered list
+
+.list name
+. hello
+. world!
+.. indent
+[arabic]
+... indent indent
+
+=== checkbox
+
+* [ ] empty box
+* [x] checked box
+
+=== text
+
+_underscore_ *bold* `monospace`
+
+```js
+console.log("code block!!")
+```
